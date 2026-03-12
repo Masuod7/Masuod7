@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm MASUOD NAJEI</h1>
 <h3 align="center">A Passionate Full-Stack Developer from [Your City/Country]</h3>
 
-<!-- يمكنك وضع رابط البانر الخاص بك هنا -->
+<!-- تم إضافة البانر المتحرك للسحب -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="MASUOD NAJEI Banner" width="100%"/>
+  <img src="«CLOUDS» 2D VFX Animation, Ivan Boyko - VFX.gif" alt="MASUOD NAJEI Banner - 2D Clouds Animation" width="100%"/>
 </p>
 
 <p align="center">
@@ -92,4 +92,3 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 ---
 ⭐️ From [MASUOD NAJEI](https://github.com/YOUR_GITHUB_USERNAME)
-
