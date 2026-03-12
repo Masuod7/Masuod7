@@ -1,55 +1,84 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MASUOD%20NAJEI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+
+<span style="color:#00FFFF">
+
+███╗   ███╗ █████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ 
+████╗ ████║██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗
+██╔████╔██║███████║███████╗██║   ██║██║   ██║██║  ██║
+██║╚██╔╝██║██╔══██║╚════██║██║   ██║██║   ██║██║  ██║
+██║ ╚═╝ ██║██║  ██║███████║╚██████╔╝╚██████╔╝██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+
+███╗   ██╗ █████╗      ██╗███████╗██╗
+████╗  ██║██╔══██╗     ██║██╔════╝██║
+██╔██╗ ██║███████║     ██║█████╗  ██║
+██║╚██╗██║██╔══██║██   ██║██╔══╝  ██║
+██║ ╚████║██║  ██║╚█████╔╝███████╗██║
+╚═╝  ╚═══╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚═╝
+
+</span>
+
+</p>
+
 
 <h1 align="center">Hi 👋, I'm MASUOD NAJEI</h1>
-<h3 align="center">Software Developer | Python | JavaScript | C++</h3>
 
----
 
-## 👨‍💻 About Me
+<p align="center">
+🚀 Software Developer | Data Enthusiast | Algorithmic Trading Explorer
+</p>
 
-- 💻 Passionate about **Software Development**
-- 🌱 Working with **Web Development & Data Analysis**
-- 🧠 Interested in **Backend Systems, Data Science and Modern Web Apps**
-- 🚀 Always learning new technologies
-
----
-
-# 🚀 Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+<p align="center">
+Passionate about building scalable software, data analysis, and developing intelligent systems using modern technologies.
 </p>
 
 ---
 
-## Databases
+# 🌐 About Me
+
+- 💻 Software Developer
+- 📊 Interested in **Data Science & Algorithmic Trading**
+- 🧠 Building tools with **Python, C++, and JavaScript**
+- ⚙️ Experience with backend systems and data processing
+- 🌍 Always learning new technologies
+
+---
+
+# 🚀 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## Frameworks
+# 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-## Python Libraries
+# ⚙️ Frameworks
 
 <p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+---
 
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+# 📚 Libraries
 
-<img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
-
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
 ---
@@ -57,41 +86,21 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MASUOD-NAJEI&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASUOD-NAJEI&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MASUOD-NAJEI&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MASUOD-NAJEI&theme=tokyo-night" />
-
----
-
-# 📫 Connect with Me
+# 🔗 Connect With Me
 
 <p>
-
-<a href="https://github.com/MASUOD-NAJEI">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
+💼 GitHub: https://github.com/YOUR_USERNAME
 </p>
 
 ---
 
-⭐ From [MASUOD NAJEI](https://github.com/MASUOD-NAJEI)
+⭐ *Always learning, building, and exploring new technologies.*
